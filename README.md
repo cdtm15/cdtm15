@@ -3,7 +3,7 @@
 
 I am a Data Scientist and PhD Candidate from Colombia 🇨🇴
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white" height="28" alt="MATLAB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" height="28" alt="R" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px">
 
 - 🔭 I’m currently working on an E-commerce analysis for sales and revenues prediction in Python and SQL. Also my PhD thesis that combines BERTTopic and Conformal Regression for Uncertainty Activity Duration  
 - 🌱 I’m currently learning LLM 
@@ -15,4 +15,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cdtm15)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tobarovc/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tobarovc/)  
+
 
