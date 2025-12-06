@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Cristian
 
 I am a Data Scientist and PhD Candidate from Colombia 🇨🇴
+*Currently looking for a position as a Data Scientist or an Internship in Research*
 
 Skills: <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white" height="28" alt="MATLAB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" height="28" alt="R" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px">
 
