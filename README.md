@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Cristian
-![](https://github.com/cdtm15/cdtm15/blob/main/github-header-banner.png)
 
 I am a Data Scientist and PhD Candidate from Colombia 🇨🇴
 
@@ -14,6 +13,6 @@ Skills: <img src="https://img.shields.io/badge/Python-306998?logo=python&logoCol
 - ⚡ Fun fact: I love comedy shows to make jokes in english and Spanish! Ask me one 🤪🥴 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cdtm15)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tobarovc/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tobarovc/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cdtm15)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tobarov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tobarovc/)  
 
 
